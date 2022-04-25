@@ -1,1 +1,1 @@
-# odin-website
+This is a project I made using the tutorial of Odin Projects. This is a landing page for a website. It is still a work in progress but has been super fun to make!
